@@ -1,10 +1,13 @@
-HI Everyone 
+HI Everyone......
 I'm Maksudur Rahman student of CSE
 
 
-I just launched my first code
-I’m currently learning everything
-I’m looking to collaborate with other content creators
+I just launched my first code.
+
+I’m currently learning everything.
+
+I’m looking to collaborate with other content creators.
+
 
 ## Interarrival-arrival-time-code
 
